@@ -1,6 +1,7 @@
 print("Ahmed")
-print("What are you doing")
-print("What are you doing")
-print("What are you doing")
-print("What are you doing")
-print("sadasdasda")
+print("Nawaz Khan")
+
+print("Ahmed")
+print("Nawaz Khan")
+print("Ahmed")
+print("Nawaz Khan")
